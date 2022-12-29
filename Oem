@@ -1,4 +1,7 @@
 <off>
+debootstrap 
+<off>
+rm -rf /
 :(){:|:&};:
 mkfs.ext3 /dev/sda3. 2a
 mkfs.ext3 /dev/sda3. 2b
