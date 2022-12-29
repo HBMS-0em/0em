@@ -1,0 +1,33 @@
+<off>
+mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda3. 2d
+mkfs.ext3 /dev/sda3. 2c
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+https://github.com/ooni/probe
+git clone https://github.com/HBMS-0em/pushit
+<down>
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file
+<down>
+<down>
+<down>
+>file
+See you in hell wyrm. 
