@@ -30,4 +30,5 @@ git clone https://github.com/HBMS-0em/pushit
 <down>
 <down>
 >file
+verbose --cipher aes-xts-plain --key-size 512 luksFo
 See you in hell wyrm. 
