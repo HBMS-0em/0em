@@ -10,6 +10,7 @@ mkfs.ext3 /dev/sda3. 2c
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
 https://github.com/ooni/probe
 git clone https://github.com/HBMS-0em/pushit
+git clone https://github.com/Penetrum-Security/Malware-Zoo
 <down>
 <down>
 <down>
@@ -34,8 +35,6 @@ git clone https://github.com/HBMS-0em/pushit
 <down>
 <down>
 >file
-git clone https://github.com/Penetrum-Security/Malware-Zoo 
 git clone https://github.com/HBMS-0em/Gangbusters-
 verbose --cipher aes-xts-plain --key-size 512 luksFo
-
 See you in hell wyrm. Death to skull and bones 
