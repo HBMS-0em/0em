@@ -1,21 +1,17 @@
-Press: ALT+F4
+<off>
 <down>
->file 
-<down> 
-<down> 
 <down>
->file
+sudo cryptsetup reencrypt /dev/sda0 <decrypt>
+<down>
+<down>
+<down>
 apt install cryptsetup
-sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0 
- >filePress: ALT+F4
- >filePress: ALT+F4
+sudo cryptsetup --hash sha512 --verbose --cipher+F4+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
-Press: ALT+F4
-<down>
 mkfs.ext3 /dev/sda3. 2a 
 mkfs.ext3 /dev/sda3. 2b 
 mkfs.ext3 /dev/sda3. 2c
